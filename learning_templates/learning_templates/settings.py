@@ -26,7 +26,7 @@ SECRET_KEY = 'k%rjsnzox6b11$)+$qv+@n4j2u%rzbj5ii=34x*m3*(1qm0b)w'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["riquiofficial.pythonanywhere.com",]
 
 
 # Application definition
